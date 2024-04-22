@@ -5,3 +5,7 @@
 
 ### Day 2 : [EDA on Trends in Data-Related Careers](https://www.kaggle.com/code/anchalsekhrii/eda-of-data-related-careers)
 ##### Objective: This project reveals insights into job distribution, salary trends, and preferred work settings across various industries and company sizes. Methodologies: data preprocessing, including handling missing values and data cleaning, Exploratory data analysis (EDA) techniques such as histograms, box plots, and bar plots
+
+### Day 3 : [Spotify Analysis(2001-2010)🎵](https://www.kaggle.com/code/anchalsekhrii/spotify-analysis-2001-2010)
+##### Objective: This project reveals insights into job distribution, salary trends, and preferred work settings across various industries and company sizes. Methodologies: data preprocessing, including handling missing values and data cleaning, Trend Analysis, Exploratory data analysis (EDA) techniques such as histograms, box plots, and bar plots and Statistical Analysis
+
